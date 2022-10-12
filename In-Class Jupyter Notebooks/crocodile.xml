@@ -1,0 +1,17 @@
+<anthology>
+  <poem>
+    <info title="How doth the little" author="Lewis Carroll"/>
+    <stanza>
+      <line>How doth the little crocodile</line>
+       <line>Improve his shining tail,</line> 
+       <line>And pour the waters of the Nile</line>
+       <line>On every golden scale! </line>
+    </stanza>
+    <stanza>
+       <line>How cheerfully he seems to grin,</line>
+       <line>How neatly spread his claws, </line>
+       <line>And welcome little fishes in</line>
+       <line>With gently smiling jaws! </line>
+    </stanza> 
+  </poem>
+</anthology>
