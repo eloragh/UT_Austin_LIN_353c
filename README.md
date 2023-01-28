@@ -28,7 +28,7 @@ The Jupyter Notebooks used in-class covered a variety of topics from simple pyth
   - Word sense disambiguation, Naive Bayes statistical proofs, and Naive Bayes machine learning model implementation.
   
 [Homework 5](https://github.com/eloragh/LING_353c_COMP_LING/blob/main/Homework/Introcl_homework_5_espie.ipynb)
-  - Sentiment analysis, logistic regression models through scikit learn, gensim, sklearn, numpy, matplotlib, plotting nearest neighbor vectors, cosine similarity computation
+  - Sentiment analysis, logistic regression models through scikit learn, gensim, sklearn, numpy, matplotlib, plotting nearest neighbor vectors, cosine similarity computation.
 
 [Homework 6](https://github.com/eloragh/LING_353c_COMP_LING/blob/main/Homework/Introcl_homework_6_espie.ipynb)
   - Part-of-speech tagging disambiguation, [Crash Blossoms](https://www.nytimes.com/2010/01/31/magazine/31FOB-onlanguage-t.html), Hidden Markov models,
