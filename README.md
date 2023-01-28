@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - Introduction
+- In-Class Notebooks
 - Assignments
 - Acknowledgements
 
@@ -10,6 +11,8 @@
 This repository contains all of the assignments and input text files for LIN 353c Introduction to Computational Linguistics with Professor Katrin Erk in the
 Fall 2022 semester at UT Austin. This course covers the intersection of linguistics and computer science through machine learning algorithms and dynamic
 programming.
+
+## In-Class Notebooks
 
 ## Assignments
 
