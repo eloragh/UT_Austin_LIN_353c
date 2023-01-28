@@ -32,13 +32,13 @@ The Jupyter Notebooks used in-class covered a variety of topics from simple pyth
 
 [Homework 6](https://github.com/eloragh/LING_353c_COMP_LING/blob/main/Homework/Introcl_homework_6_espie.ipynb)
   - Part-of-speech tagging disambiguation, [Crash Blossoms](https://www.nytimes.com/2010/01/31/magazine/31FOB-onlanguage-t.html), Hidden Markov models,
-  and Viterbi algorithm
+  and Viterbi algorithm.
 
 [Homework 7](https://github.com/eloragh/LING_353c_COMP_LING/blob/main/Homework/Introcl_homework_7_espie.ipynb)
-  - Chunking, precision, recall, context-free grammar
+  - Chunking, precision, recall, context-free grammar.
  
 [Homework 8](https://github.com/eloragh/LING_353c_COMP_LING/blob/main/Homework/Introcl_homework_8_espie.ipynb)
-  - Cocke-Younger-Kasami (CKY) algorithm
+  - Cocke-Younger-Kasami (CKY) algorithm.
 
 ## Acknowledgements
 
