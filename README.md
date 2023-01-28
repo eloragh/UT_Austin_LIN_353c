@@ -1,4 +1,4 @@
-# LIN 353c Introduction to Computational Linguistics <img align="right" width="150" height="150" src=Misc/UT_Seal.png>
+# LIN 353c Intro to Computational Linguistics <img align="right" width="150" height="150" src=Misc/UT_Seal.png>
 
 ## Table of Contents
 
