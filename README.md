@@ -5,7 +5,6 @@
 - [Introduction](#introduction)
 - [In-Class Notebooks](#in-class-notebooks)
 - [Assignments](#assignments)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 This repository contains all of the assignments and input text files for LIN 353c Introduction to Computational Linguistics with Professor Katrin Erk in the Fall 2022 semester at the University of Texas at Austin. This course covers the intersection of linguistics and computer science through machine learning algorithms and dynamic programming.
@@ -39,9 +38,3 @@ The Jupyter Notebooks used in-class covered a variety of topics from simple pyth
  
 [Homework 8](https://github.com/eloragh/LING_353c_COMP_LING/blob/main/Homework/Introcl_homework_8_espie.ipynb)
   - Cocke-Younger-Kasami (CKY) algorithm.
-
-## Acknowledgements
-
-Computational Linguistics has been my desired trajectory for a long time. Taking this class felt like the first real step to fulfilling a long awaited dream. Professor Erk is a fantastic teacher who continued to support my final project long after the class had finished. She introduced me to the broader Computational Linguistics community at UT Austin, providing me with the opportunity to continue working towards my goal.
-
-Thanks for checking out my repository!
